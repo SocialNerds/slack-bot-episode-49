@@ -1,9 +1,19 @@
-# Botkit Starter Kit for Slack Bots
+# Slack bot episode #49
 
+Let's build a Slack bot using BotKit framework! [here](https://youtu.be/Km-VjeB7z3w).
 
-This repo is a stripped down version of the official Botkit starter kit. 
+# Installation
+```
+git clone
+npm i -g ngrok
+npm install
+node bot.js
+ngrok http 3000
+Create a new app on https://api.slack.com/apps
+```
 
-Check out the full repo here: (https://github.com/howdyai/botkit-starter-slack)
-
-Also checkout the official Botkit documentation repo here: (https://github.com/howdyai/botkit/blob/master/docs/readme.md#developing-with-botkit)
-
+# By SocialNerds
+* [SocialNerds.gr](https://www.socialnerds.gr/)
+* [YouTube](https://www.youtube.com/SocialNerdsGR)
+* [Facebook](https://www.facebook.com/SocialNerdsGR)
+* [Twitter](https://twitter.com/socialnerdsgr)
